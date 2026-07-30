@@ -11,3 +11,4 @@ venv/
 .pytest_cache/
 eval_report.json
 node_modules/
+backend/data/raw/
