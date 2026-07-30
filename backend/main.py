@@ -148,7 +148,8 @@ async def serve_js():
 
 @app.get("/favicon.ico")
 async def favicon():
-    return JSONResponse({}, status_code=204)
+    from starlette.responses import Response
+    return Response(status_code=204)
 
 FUZZY_MAP = {
     "scholarship": ["scholarship", "scholorship", "scholor", "scholarships", "schorlarship"],
