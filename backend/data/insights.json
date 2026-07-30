@@ -1,0 +1,19 @@
+[
+  {
+    "scheme_name": "Dr. Panjabrao Deshmukh OBC Scholarship",
+    "doc_type": "ScholarshipNotification",
+    "amount": "12000",
+    "application_deadline": "2025-10-31",
+    "portal": null,
+    "provider": "Central",
+    "category": "OBC",
+    "education_level": null,
+    "state": null,
+    "description": "Scholarship for OBC students",
+    "user_confirmed": true,
+    "count": 2,
+    "first_seen": "2026-07-30T11:35:30.298119",
+    "last_seen": "2026-07-30T11:35:33.168910",
+    "promoted": false
+  }
+]

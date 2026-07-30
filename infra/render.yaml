@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: vidhimitra-backend
+    runtime: docker
+    repo: https://github.com/YOUR_USERNAME/vidhimitra
+    dockerfilePath: infra/Dockerfile
+    envVars:
+      - key: SUPABASE_URL
+        value: https://vplzxrzoovtjvdksegbx.supabase.co
+      - key: SUPABASE_KEY
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GREEN_TUNNEL
+        value: "true"
+    healthCheckPath: /health

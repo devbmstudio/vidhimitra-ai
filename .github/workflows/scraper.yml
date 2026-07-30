@@ -1,0 +1,17 @@
+name: Daily Scraper
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  trigger-scraper:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Render scraper endpoint
+        run: |
+          curl -s -X POST "${{ secrets.RENDER_API_URL }}/run-scraper" \
+            -H "x-cron-secret: ${{ secrets.CRON_SECRET_KEY }}" \
+            -H "Content-Type: application/json" \
+            --fail-with-body

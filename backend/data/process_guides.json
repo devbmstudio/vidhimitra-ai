@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ews_certificate",
+    "title": "EWS Certificate - Maharashtra",
+    "category": "certificate",
+    "state": "Maharashtra",
+    "tags": [
+      "ews",
+      "economically weaker",
+      "general",
+      "open",
+      "income certificate",
+      "reservation",
+      "aaple sarkar"
+    ],
+    "eligibility": "Must belong to General/Open category (not SC/ST/OBC/NT). Annual family income below Rs. 8 lakh. Family should not own more than 5 acres of agricultural land. Residential plot should not exceed 1,000 sq ft in notified municipalities or 200 sq yd in non-notified areas.",
+    "documents_needed": [
+      "Aadhaar card",
+      "Ration card (family proof)",
+      "Income proof (Form 16 / salary slips / IT returns)",
+      "Self-declaration affidavit on Rs. 100 stamp paper (stating General category + income + asset details)",
+      "7/12 Utara (land record extract) — if agricultural land owned",
+      "Property documents / sale deed / tax receipt — for residential property",
+      "Domicile certificate or residence proof (ration card, Aadhaar with Maharashtra address)",
+      "Passport-size photograph (5-20 KB, JPEG)",
+      "Voter ID or other identity proof"
+    ],
+    "step_by_step": [
+      "Go to aaplesarkar.mahaonline.gov.in and click 'New User? Register Here'",
+      "Register using Aadhaar OTP or manually with your details",
+      "Log in with username and password, select your district",
+      "Click 'Revenue Department' on left menu → 'Revenue Services'",
+      "Choose 'Income and Asset Certificate for EWS' from the list",
+      "Fill the application form with personal details, family income, and asset details",
+      "Upload all required documents (PDF/JPG/PNG within size limits)",
+      "Pay processing fee (Rs. 50 - Rs. 100 depending on district)",
+      "Submit and save the Application ID (acknowledgement number) for tracking",
+      "Tahsildar verifies via Revenue Inspector — takes up to 21 days",
+      "Once approved, download certificate PDF from the portal"
+    ],
+    "where_to_apply": "Online: Aaple Sarkar portal. Offline: Tehsildar office. Assisted: Maha e-Seva Kendra (CSC)",
+    "portal": "aaplesarkar.mahaonline.gov.in",
+    "common_problems": [
+      "Name mismatch with Aadhaar → get Aadhaar corrected first",
+      "Income proof rejected → get Form 16 from employer or proper IT return",
+      "Application showing no update after 15 days → visit Tehsildar office directly with acknowledgement",
+      "7/12 extract missing → get from Talathi office before applying",
+      "Mobile number not linked to Aadhaar → use manual registration instead of Aadhaar OTP",
+      "Photo too large → resize to under 20 KB using online tools"
+    ],
+    "validity": "1 year (must renew annually; certificate issued after April 1 is valid for that financial year)",
+    "fees": "Rs. 50 - Rs. 100 online; additional service charge at Maha e-Seva Kendra"
+  },
+  {
+    "id": "income_certificate",
+    "title": "Income Certificate - Maharashtra",
+    "category": "certificate",
+    "state": "Maharashtra",
+    "tags": [
+      "income certificate",
+      "income proof",
+      "aaple sarkar",
+      "revenue",
+      "financial"
+    ],
+    "eligibility": "Any individual who is employed and a resident of Maharashtra. Used for scholarships, fee waivers, and other govt scheme eligibility proof.",
+    "documents_needed": [
+      "Aadhaar card (identity proof)",
+      "Address proof (Ration card / Voter ID / Passport / Driving License / Electricity bill)",
+      "Passport-size photograph",
+      "Income proof (Form 16 if salaried, IT return statement, salary slips)",
+      "Age proof (Birth certificate / School leaving certificate / PAN card)"
+    ],
+    "step_by_step": [
+      "Visit aaplesarkar.mahaonline.gov.in and register as new user",
+      "Log in and select 'Income Certificate' from the main menu",
+      "Fill the application form with accurate personal and income details",
+      "Upload scanned copies of all required documents",
+      "Submit the application — you will receive an acknowledgement number",
+      "Track status using the acknowledgement number on the same portal",
+      "Certificate is issued within 15 days from date of application",
+      "Download the certificate once approved"
+    ],
+    "where_to_apply": "Online: Aaple Sarkar portal. Offline: Tehsildar office",
+    "portal": "aaplesarkar.mahaonline.gov.in",
+    "common_problems": [
+      "Income details don't match IT records → submit consistent figures across documents",
+      "Application rejected due to incomplete documents → check document checklist before submitting",
+      "Portal not accepting file → check file format (PDF/JPG/PNG) and size limits",
+      "Certificate not generated after 15 days → visit Tehsildar office with acknowledgement"
+    ],
+    "validity": "6 months from date of issue",
+    "fees": "Rs. 5 (online)"
+  },
+  {
+    "id": "caste_certificate",
+    "title": "Caste Certificate - Maharashtra",
+    "category": "certificate",
+    "state": "Maharashtra",
+    "tags": [
+      "caste",
+      "caste certificate",
+      "sc",
+      "st",
+      "obc",
+      "vjnt",
+      "nt",
+      "sbc",
+      "aaple sarkar",
+      "tehsildar"
+    ],
+    "eligibility": "Must be a resident of Maharashtra. Available for SC, ST, OBC, VJNT, SBC, NT categories. Proof of caste by birth required (father's caste certificate or community proof).",
+    "documents_needed": [
+      "Aadhaar card",
+      "Domicile certificate or residence proof (ration card, electricity bill, voter ID)",
+      "School leaving certificate / birth certificate (for age proof)",
+      "Caste of parent (father's caste certificate if available)",
+      "Affidavit sworn before Executive Magistrate (if father's certificate not available)",
+      "Passport-size photographs",
+      "7/12 extract (for rural applicants)"
+    ],
+    "step_by_step": [
+      "Apply online at aaplesarkar.mahaonline.gov.in",
+      "Register as new user (Aadhaar-based or manual)",
+      "Log in and select 'Revenue Department' → 'Caste Certificate'",
+      "Fill in personal details, caste/community details, and family information",
+      "Upload scanned copies of all required documents",
+      "Pay the applicable fee",
+      "Submit and note the application ID",
+      "Tahsildar verifies details through Revenue Inspector / Talathi",
+      "Verification includes local enquiry — may take 15-30 days",
+      "Download certificate from portal once issued"
+    ],
+    "where_to_apply": "Online: Aaple Sarkar. Offline: Tehsildar office. For validity verification: Caste Scrutiny Committee",
+    "portal": "aaplesarkar.mahaonline.gov.in",
+    "common_problems": [
+      "Caste not in Maharashtra government list → check state caste list before applying",
+      "Father's caste certificate not available → get sworn affidavit from Executive Magistrate",
+      "Name mismatch with school records → get school records corrected first",
+      "Verification delayed → follow up at Tehsildar office personally",
+      "Caste validity required separately for college admission → apply to Caste Scrutiny Committee after getting certificate"
+    ],
+    "validity": "Lifetime (but may need renewal for specific purposes like education)",
+    "fees": "Rs. 50 - Rs. 100 (varies by district)"
+  },
+  {
+    "id": "mahadbt_registration",
+    "title": "MahaDBT Portal Registration & Application - Maharashtra Scholarships",
+    "category": "scholarship",
+    "state": "Maharashtra",
+    "tags": [
+      "mahadbt",
+      "aaple sarkar dbt",
+      "scholarship application",
+      "registration",
+      "fresh",
+      "renewal"
+    ],
+    "eligibility": "Must be a domicile of Maharashtra. Enrolled in a recognized educational institution in Maharashtra. Specific eligibility varies by scheme (SC/ST/OBC/EBC/Minority).",
+    "documents_needed": [
+      "Aadhaar card (mandatory, portal is Aadhaar-based)",
+      "Maharashtra domicile certificate",
+      "Income certificate (current financial year)",
+      "Caste certificate / validity (if applying under reserved category)",
+      "Previous year mark sheets / grade cards",
+      "Current year college bonafide certificate",
+      "Fee receipt / tuition fee paid proof",
+      "Bank account details (Aadhaar-linked for DBT)",
+      "Passport-size photograph",
+      "Signature (scanned)"
+    ],
+    "step_by_step": [
+      "Go to mahadbt.maharashtra.gov.in and click 'New Applicant Registration'",
+      "Authenticate using Aadhaar OTP (or biometric if mobile not linked)",
+      "Fill registration form — create username and password",
+      "Verify email and mobile via OTP",
+      "Log in with your new credentials",
+      "Complete your profile 100% (personal, contact, bank, education details)",
+      "Upload photo, signature, and required documents",
+      "Go to 'All Schemes' — portal shows schemes you're eligible for",
+      "Select the scholarship scheme you want to apply for",
+      "Fill the application form, upload scheme-specific documents",
+      "Verify all details and lock your application",
+      "Click 'Submit' — note the application reference number"
+    ],
+    "where_to_apply": "Online: mahadbt.maharashtra.gov.in",
+    "portal": "mahadbt.maharashtra.gov.in",
+    "common_problems": [
+      "MahaDBT website not opening → clear browser cache or try in incognito mode; avoid peak hours (10 AM - 2 PM)",
+      "Forgot username → use 'Forgot Username' option; enter name + mobile + DOB to get username via SMS",
+      "Forgot password → use 'Forgot Password' option; get OTP on registered mobile/email",
+      "Aadhaar OTP not received → check if mobile is linked to Aadhaar; use biometric mode instead",
+      "Scheme not showing in dashboard → ensure profile is 100% complete; check scheme eligibility criteria",
+      "Application rejected → check reason on dashboard; re-apply with corrections during re-opening period (Aug-Sep)",
+      "Payment not reflecting → wait 24 hours; contact helpdesk with reference number"
+    ],
+    "validity": "Per academic year (renewal required each year)",
+    "fees": "Free (no application fee on MahaDBT portal)"
+  },
+  {
+    "id": "dpd_scholarship",
+    "title": "Dr. Panjabrao Deshmukh OBC Scholarship - Maharashtra",
+    "category": "scholarship",
+    "state": "Maharashtra",
+    "tags": [
+      "dpd",
+      "panjabrao deshmukh",
+      "obc",
+      "vasatigruh",
+      "hostel",
+      "maintenance",
+      "mahadbt"
+    ],
+    "eligibility": "Must be an OBC category student domiciled in Maharashtra. Enrolled in a recognized educational institution in Maharashtra (school / college / professional course). Family income below Rs. 8 lakh per annum. For hostel maintenance allowance: must be a hostel resident.",
+    "documents_needed": [
+      "Aadhaar card",
+      "OBC caste certificate / validity",
+      "Income certificate (below Rs. 8 lakh)",
+      "Maharashtra domicile certificate",
+      "Previous year mark sheet",
+      "Current year college bonafide certificate",
+      "Fee receipt (tuition fee paid)",
+      "Bank account details (Aadhaar-linked)",
+      "Hostel certificate (if applying for hostel allowance)",
+      "Passport-size photograph",
+      "Non-creamy layer certificate (renewed for current year)"
+    ],
+    "step_by_step": [
+      "Register/Login at mahadbt.maharashtra.gov.in",
+      "Complete your profile 100% (personal, education, bank details)",
+      "Go to 'All Schemes' and search for 'Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna'",
+      "Check eligibility — the portal will show if you qualify",
+      "Click 'Apply' and fill the scheme-specific form",
+      "Upload all required documents (caste, income, domicile, hostel certificate, fee receipt)",
+      "Verify all entered details carefully",
+      "Lock and submit the application",
+      "Note the application reference number for tracking",
+      "Track status in 'My Applied Schemes' — Under Scrutiny → Approved → Fund Disbursed",
+      "Scholarship amount is credited directly to your Aadhaar-linked bank account via DBT"
+    ],
+    "where_to_apply": "Online: MahaDBT portal (mahadbt.maharashtra.gov.in)",
+    "portal": "mahadbt.maharashtra.gov.in",
+    "common_problems": [
+      "Non-creamy layer certificate expired → renew it before applying (available on parishisht.maharashtra.gov.in)",
+      "Bank account not Aadhaar-linked → get linking done at bank branch; scholarship will not be credited otherwise",
+      "Hostel certificate not from recognized hostel → get certificate from college-affiliated hostel only",
+      "Application under scrutiny for months → follow up with college administration to forward verification",
+      "Rejected due to income exceeding limit → check if income certificate shows correct figure; get corrected if needed",
+      "Renewal not reflecting → ensure previous year's course is marked 'Completed' in profile before applying renewal"
+    ],
+    "validity": "Per academic year (renewable annually)",
+    "fees": "Free (no application fee)"
+  }
+]
