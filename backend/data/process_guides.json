@@ -250,5 +250,210 @@
     ],
     "validity": "Per academic year (renewable annually)",
     "fees": "Free (no application fee)"
+  },
+  {
+    "id": "domicile_certificate",
+    "title": "Domicile Certificate - Maharashtra",
+    "category": "certificate",
+    "state": "Maharashtra",
+    "tags": [
+      "domicile",
+      "residence",
+      "residence proof",
+      "aaple sarkar",
+      "bonafide",
+      "maharashtra resident",
+      "local"
+    ],
+    "eligibility": "Must have resided in Maharashtra for at least 15 years (for standard domicile). Alternatively, 5+ years of residence with property or business proof. Children of Maharashtra government employees posted outside state are also eligible. Required for education quota, job reservation, and scholarship eligibility.",
+    "documents_needed": [
+      "Aadhaar card (with Maharashtra address)",
+      "School leaving certificate / SSC mark sheet (showing school in Maharashtra for 7+ years)",
+      "Ration card (family member name listed)",
+      "Voter ID (Maharashtra constituency)",
+      "Birth certificate (issued in Maharashtra)",
+      "Land/property documents in Maharashtra",
+      "Employer certificate (for govt employees posted outside Maharashtra)"
+    ],
+    "step_by_step": [
+      "Visit aaplesarkar.mahaonline.gov.in and register/login",
+      "Select 'Revenue Department' → 'Domicile Certificate'",
+      "Fill the application form — personal details, residence history, reason for domicile",
+      "Upload scanned copies of supporting documents",
+      "Choose document delivery mode (digital download / post / collect from Tehsildar office)",
+      "Pay the processing fee (Rs. 50 - Rs. 100)",
+      "Submit application and save the acknowledgement number",
+      "Tahsildar's office verifies records — typically 7-15 days",
+      "Download certificate from portal once approved (or collect physically)",
+      "Domicile certificate is digitally signed with QR code for online verification"
+    ],
+    "where_to_apply": "Online: Aaple Sarkar portal. Offline: Tehsildar / SDM office",
+    "portal": "aaplesarkar.mahaonline.gov.in",
+    "common_problems": [
+      "Less than 15 years residence → apply under 5-year category if you have property/business proof",
+      "School records from another state → use ration card + voter ID as alternative proof",
+      "Aadhaar address not in Maharashtra → get Aadhaar address updated before applying",
+      "Application rejected due to insufficient proof → visit Tehsildar office to provide additional documents",
+      "Certificate not issued in time for admission deadline → get temporary residence certificate from Tehsildar first"
+    ],
+    "validity": "Lifetime (no renewal required)",
+    "fees": "Rs. 50 - Rs. 100 (online); varies by district"
+  },
+  {
+    "id": "birth_death_certificate",
+    "title": "Birth & Death Certificate - Maharashtra",
+    "category": "certificate",
+    "state": "Maharashtra",
+    "tags": [
+      "birth",
+      "death",
+      "birth certificate",
+      "death certificate",
+      "registrar",
+      "municipal",
+      "gram panchayat",
+      "aaple sarkar"
+    ],
+    "eligibility": "Birth registration: Must register within 21 days of birth at the local Registrar (Municipal Corporation / Gram Panchayat). Late registration allowed up to 1 year with affidavit; beyond 1 year requires SDM/Executive Magistrate order. Death registration: Must register within 21 days of death.",
+    "documents_needed": [
+      "Hospital discharge certificate / birth notification (from hospital where birth occurred)",
+      "Aadhaar card of parent (for birth certificate)",
+      "Marriage certificate of parents (for birth certificate, if applicable)",
+      "Affidavit on stamp paper (for late registration — birth or death)",
+      "Death report / medical certificate of cause of death (for death certificate)",
+      "Identity proof of informant (person registering the death)",
+      "Hospital discharge summary (for death occurring at hospital)"
+    ],
+    "step_by_step": [
+      "For online application: Visit aaplesarkar.mahaonline.gov.in → 'Health Department' → 'Birth & Death Certificate'",
+      "Select type: Birth Certificate or Death Certificate",
+      "Enter details: name, date, place of birth/death, parents' names, hospital details",
+      "Upload supporting documents (hospital notification, identity proof, etc.)",
+      "Pay the processing fee (Rs. 25 - Rs. 50 for normal registration)",
+      "Submit and receive acknowledgement number",
+      "Registrar verifies with hospital records — certificate issued within 7-10 days",
+      "Download digitally signed certificate from portal",
+      "For offline: Visit local Municipal Corporation / Gram Panchayat with all original documents",
+      "Certificate is also available at Common Service Centres (CSC) for assisted application"
+    ],
+    "where_to_apply": "Online: Aaple Sarkar portal. Offline: Municipal Corporation / Gram Panchayat / Registrar of Births & Deaths",
+    "portal": "aaplesarkar.mahaonline.gov.in",
+    "common_problems": [
+      "Birth not registered within 21 days → apply late registration with affidavit (up to 1 year); beyond 1 year → get order from SDM",
+      "Hospital records lost → get non-availability certificate from hospital + submit affidavit from parents",
+      "Name not decided at time of registration → register as 'Baby of [Father Name]'; name can be added later via Name Addition application",
+      "Death certificate shows wrong name → apply for correction with supporting documents",
+      "Certificate not downloadable → check if verification is complete; contact registrar if pending beyond 15 days"
+    ],
+    "validity": "Lifetime (valid for life, no renewal)",
+    "fees": "Rs. 25 - Rs. 50 (normal); Rs. 100 - Rs. 200 (late registration with fine)"
+  },
+  {
+    "id": "nmms_scholarship",
+    "title": "National Means-cum-Merit Scholarship (NMMS) - Maharashtra",
+    "category": "scholarship",
+    "state": "Maharashtra",
+    "tags": [
+      "nmms",
+      "national merit",
+      "means cum merit",
+      "class 8",
+      "scholarship",
+      "sat",
+      "state examination",
+      "ssa"
+    ],
+    "eligibility": "Must be a student in class 8 in a government / aided / local body school in Maharashtra. Must have scored at least 55% (50% for SC/ST) in class 7 annual exam. Family income below Rs. 3.5 lakh per annum. Selected through a state-level exam (SAT + MAT). Only 2 students per school (one SC/ST) are recommended.",
+    "documents_needed": [
+      "Class 7 mark sheet / report card",
+      "School bonafide certificate (class 8 enrollment proof)",
+      "Income certificate (below Rs. 3.5 lakh)",
+      "Caste certificate (if SC/ST/OBC — for reserved quota)",
+      "Aadhaar card of student",
+      "Bank account details of student (joint with parent)",
+      "Passport-size photograph",
+      "Domicile / residence proof"
+    ],
+    "step_by_step": [
+      "School announces NMMS exam — register through your school (not directly online)",
+      "Fill the application form provided by the school — attach documents and photographs",
+      "School verifies eligibility and uploads application on NMMS portal (nmmsssat.maharashtra.gov.in)",
+      "School pays the application fee (Rs. 100 — SC/ST exempted) — collected from student or borne by school",
+      "Download hall ticket from school / portal 2 weeks before exam",
+      "Appear for the state-level exam: Mental Ability Test (MAT) + Scholastic Ability Test (SAT)",
+      "Results declared after 2-3 months — check on the NMMS portal",
+      "Selected students receive Rs. 12,000 per year (Rs. 1,000 per month) for classes 8 to 12",
+      "Scholarship amount credited via DBT to student's bank account",
+      "Renewal every year: must pass class 9, 10, 11 with minimum 55% (50% for SC/ST)"
+    ],
+    "where_to_apply": "Through your school (not individual online application); portal for school login: nmmsssat.maharashtra.gov.in",
+    "portal": "nmmsssat.maharashtra.gov.in",
+    "common_problems": [
+      "School not aware of NMMS → inform the principal to register through DIET / SSA office",
+      "Missed the application deadline → check with DIET office if late applications are accepted (usually not)",
+      "Income proof above Rs. 3.5 lakh → get corrected income certificate from Tehsildar",
+      "Failed MAT/SAT → can apply again in class 8 if student is still in class 8 (only one attempt per student)",
+      "Scholarship amount not credited → ensure Aadhaar-linked bank account is correct in portal",
+      "Renewal rejected due to low marks → maintain 55% (50% for SC/ST) in annual exams for renewal"
+    ],
+    "validity": "Class 8 to class 12 (5 years, renewable annually based on academic performance)",
+    "fees": "Application fee: Rs. 100 (SC/ST exempted). No renewal fee."
+  },
+  {
+    "id": "caste_validity",
+    "title": "Caste Validity Certificate - Maharashtra",
+    "category": "certificate",
+    "state": "Maharashtra",
+    "tags": [
+      "caste validity",
+      "caste scrutiny",
+      "caste verification",
+      "sc",
+      "st",
+      "obc",
+      "scrutiny committee",
+      "validity certificate",
+      "college admission",
+      "government job"
+    ],
+    "eligibility": "Must already hold a caste certificate issued by Tehsildar. Required for: college admission under reserved category, government job appointment, and contesting elections. Verification is done by the Caste Scrutiny Committee of the respective division. Applicant must prove caste by birth — not by marriage or conversion.",
+    "documents_needed": [
+      "Caste certificate (original — issued by Tehsildar)",
+      "School leaving certificate (showing caste from school records)",
+      "Birth certificate",
+      "Parent's caste validity certificate (if available — strongest proof)",
+      "Parent's caste certificate from Tehsildar",
+      "Affidavit on stamp paper sworn before Executive Magistrate",
+      "7/12 extract (for rural families — shows community in land records)",
+      "Aadhaar card",
+      "Passport-size photographs",
+      "Voter ID of self and parents"
+    ],
+    "step_by_step": [
+      "Obtain your caste certificate from Tehsildar first (this is mandatory before applying for validity)",
+      "Visit the Caste Scrutiny Committee office of your division (Mumbai / Pune / Nagpur / Aurangabad / Amravati / Nashik)",
+      "Fill the application form (Form XVI for SC/ST; Form for OBC validity as applicable)",
+      "Attach all original documents — caste certificate, school records, parent's documents, affidavit",
+      "Submit the application in person or through authorized representative",
+      "Pay the processing fee (varies by committee — typically Rs. 100 - Rs. 500)",
+      "Committee issues an acknowledgement with a registration number",
+      "Verification officer conducts field enquiry — visits your native place to verify caste claims",
+      "Police verification may also be done for SC/ST claims",
+      "If satisfied, committee issues the Caste Validity Certificate within 3-6 months",
+      "If rejected, you can appeal to the State Level Scrutiny Committee within 60 days"
+    ],
+    "where_to_apply": "Caste Scrutiny Committee of respective division. Online: maharashtracsc.koha.gov.in (partial online submission available)",
+    "portal": "maharashtracsc.koha.gov.in",
+    "common_problems": [
+      "Applying without caste certificate → get caste certificate from Tehsildar first; validity cannot be issued without it",
+      "School records show different caste → get school records corrected by proper authority before applying",
+      "Caste claimed through marriage → caste validity is based on birth, not marriage; cannot be changed by marriage",
+      "Parent's caste validity not available → submit parent's caste certificate + sworn affidavit as alternative",
+      "Field enquiry negative → provide additional proof (community certificates from village, land records, genealogical documents)",
+      "Validity delayed beyond 6 months → approach committee in person with acknowledgement number for status",
+      "Rejected validity → appeal to State Level Scrutiny Committee within 60 days with supporting evidence"
+    ],
+    "validity": "Lifetime (valid for life; accepted across all government bodies in Maharashtra)",
+    "fees": "Rs. 100 - Rs. 500 (varies by division and category)"
   }
 ]
